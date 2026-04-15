@@ -1,18 +1,50 @@
 CACHE MANIFEST 
 
 CACHE:
+index.html
+jb.html
+henlogo.png
 ac.html
 cache.html
 Cache.manifest
+505exploit.js
+672entrypoint.js
+672kexploit.js
+CopyCH.bin
+Lamance9.bin
+MiraLoader.bin
+MiraLoader.js
+backupdb.bin
+bg.jpg
+disableupdates.bin
+exploit.js
 frontend.js
+int64.js
+int64b.js
+jb.html
+kexploit.js
+lapse_exploit.js
+lapse_setup.js
+main.js
 malloc.js
+mdumper.bin
+mira.js
+mira2.js
 netcat.js
+payload.bin
 payload.js
+ps4debug.bin
+ps4jb.cache
+psfree.js
+psfree_lapse_shared.js
 relocator.js
+restoredb.bin
+rop.js
 ropb2.js
 syscalls.js
 syscalls2.js
+webkit.js
 wexploit.js
-
+wtsb.bin
 
 # 2026-04-14 23:09:35
