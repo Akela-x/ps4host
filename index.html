@@ -398,7 +398,7 @@ runScript('relocator.js');
 }, 1000);
 }
 
-function load_nanodns(){
+function load_BackupDB(){
     progress.innerHTML="Создание резервной копии БД... ждите"; LoadedMSG="Резервная копия БД создана";
     PLfile = "backupdb.bin";
     out_jb = "AllPL";      if(sessionStorage.Exploit!="yes"){setTimeout(poc, 500);} else {LoaderPL();}
