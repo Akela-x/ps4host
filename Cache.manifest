@@ -39,6 +39,7 @@ psfree.js
 psfree_lapse_shared.js
 relocator.js
 restoredb.bin
+nanodns.bin
 rop.js
 ropb2.js
 syscalls.js
